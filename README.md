@@ -1,12 +1,11 @@
 # -ToDoListApp
 this app lets you create a list and put them check marks when you complete the list.
-   ### Technologies used:
-1. UITableView and it's delegate methods
-2.CoreData to persist data after the app is terminated or closed
-3. UIKIt
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
+### Technologies used:
+ 
+* UITableView and it's delegate methods
+* CoreData to persist data after the app is terminated or closed
+*  UIKIt
+
+
 
 
